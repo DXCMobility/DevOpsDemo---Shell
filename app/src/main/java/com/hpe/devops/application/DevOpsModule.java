@@ -19,7 +19,7 @@ public class DevOpsModule {
     private Context context;
 
     public DevOpsModule(Context context) {
-        this.context = context;
+        this.context = context;;
     }
 
     @Provides

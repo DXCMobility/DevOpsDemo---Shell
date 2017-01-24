@@ -22,7 +22,7 @@ public class LauncherActivity extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
+        // Inflate the menu; to the action bar if it is present.
         return true;
     }
 }
