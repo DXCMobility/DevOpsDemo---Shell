@@ -7,5 +7,7 @@ public class TestDevOpsApplication extends DevOpsApplication {
         Object[] modules = {new TestDevOpsModule()};
 
         return modules;
+        
+        // Testing
     }
 }
